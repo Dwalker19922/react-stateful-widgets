@@ -1,6 +1,6 @@
 {
-  "name": "react-stateful-widgets",
-  "version": "0.0.1",
+  "name": "automation",
+  "version": "1.0.0",
   "scripts": {
     "start": "parcel src/index.html",
     "build": "parcel build src/index.html",
@@ -25,9 +25,11 @@
     "url": "git+https://github.com/LambdaSchool/react-stateful-widgets.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "AashishKhetarpal",
   "bugs": {
     "url": "https://github.com/LambdaSchool/react-stateful-widgets/issues"
   },
-  "homepage": "https://github.com/LambdaSchool/react-stateful-widgets#readme"
+  "homepage": "https://github.com/LambdaSchool/react-stateful-widgets#readme",
+  "description": "This project allows you to practice the concepts and techniques learned in this module and apply them in a concrete project. This module explored React components and component state. During the module, you studied what React is, what React components are and how to build them, what state is and how to make a component stateful, and how to update component state with click handlers. In this project you will demonstrate proficiency of these subjects and principles by fleshing out several stateful components.",
+  "main": "npm init"
 }
